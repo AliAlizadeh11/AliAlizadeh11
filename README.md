@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Alizadeh</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/jalswalad1246/jalswalad1246/main/Ali-photo.jpeg"> </div>`
+<div align="center"> <img src="https://raw.githubusercontent.com/alializadeh11/alializadeh11/main/Ali-photo.jpeg"> </div>
+
 <h3 align="center">A passionate Computer Engineering student at IUST</h3>
 
 - 🔭 I’m currently working on **single-cell RNA sequencing data analysis**
